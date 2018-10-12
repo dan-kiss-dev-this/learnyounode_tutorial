@@ -4,7 +4,8 @@
   "description": "",
   "main": "hello_world.js",
   "dependencies": {
-    "bl": "^2.1.1"
+    "bl": "^2.1.1",
+    "through2-map": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
